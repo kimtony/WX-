@@ -6,6 +6,9 @@
 [3、小程序ColorUI](https://github.com/weilanwl/ColorUI)<br>
 
 
+### VUE
+[1、VUE谷歌调试插件](https://github.com/vuejs/vue-devtools)<br>
+
 ### 其他<br>
 [1、谷歌插件开发](https://github.com/sxei/chrome-plugin-demo)<br>
 [2、API文档编辑器](https://github.com/swagger-api/swagger-editor/tree/2.x)
