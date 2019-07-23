@@ -12,3 +12,4 @@
 ### 其他<br>
 [1、谷歌插件开发](https://github.com/sxei/chrome-plugin-demo)<br>
 [2、API文档编辑器](https://github.com/swagger-api/swagger-editor/tree/2.x)
+[3、webuploader前端组件](https://github.com/fex-team/webuploader/releases)
